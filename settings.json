@@ -8,7 +8,7 @@
   "server": {
     "ip": "trumdrg.aternos.me",
     "port": 32466,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
